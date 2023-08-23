@@ -41,9 +41,9 @@ Throughout the development of the Testimonials Grid Section, I gained practical 
 
 ## Preview
 
-![Testimonials Grid Section](./images/preview.png)
+![Testimonials Grid Section](./design/desktop-design.jpg)
 
 ## Live Demo
 
-Experience the live demo of the Testimonials Grid Section [here](#).
+Experience the live demo of the Testimonials Grid Section [here](https://aachal01.github.io/testimonials-grid-section/).
 
