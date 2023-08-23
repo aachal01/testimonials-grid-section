@@ -41,7 +41,7 @@ Throughout the development of the Testimonials Grid Section, I gained practical 
 
 ## Preview
 
-![Testimonials Grid Section](./design/desktop-design.jpg)
+![Testimonials Grid Section](./screenshots/desktop-design.jpg)
 
 ## Live Demo
 
